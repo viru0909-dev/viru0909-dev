@@ -58,11 +58,7 @@
 ### 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viru0909-dev&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=viru0909-dev&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/viru0909-dev/viru0909-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 <br />
