@@ -47,12 +47,15 @@
 
 ### 📊 GitHub Stats
 
-![Virendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viru0909-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viru0909-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+[![Virendra's Stats](https://github-readme-stats.vercel.app/api?username=viru0909-dev&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=viru0909-dev&theme=tokyonight&hide_border=true&bg_color=00000000)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viru0909-dev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=viru0909-dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 ---
 
 ### 🐍 Contribution Graph
