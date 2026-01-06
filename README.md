@@ -47,17 +47,11 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+![Virendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viru0909-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
 
-<img src="https://github-readme-stats.vercel.app/api?username=viru0909-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Virendra's Github Stats" height="180"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viru0909-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viru0909-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" height="180"/>
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=viru0909-dev&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Streak" />
-</div>
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=viru0909-dev&theme=tokyonight&hide_border=true&bg_color=00000000)
 
 ---
 
