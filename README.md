@@ -42,30 +42,3 @@
 | **DevOps/Tools** | ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) |
 
 </div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![Virendra's Stats](https://github-readme-stats.vercel.app/api?username=viru0909-dev&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viru0909-dev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=viru0909-dev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
----
-
-### 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/viru0909-dev/viru0909-dev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=viru0909-dev&icon=5&color=12" />
-</div>
