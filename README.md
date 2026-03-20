@@ -34,18 +34,6 @@
 
 <br />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/viru0909-dev/viru0909-dev/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
-  <img src="https://raw.githubusercontent.com/viru0909-dev/viru0909-dev/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Most Commits" />
-  <img src="https://raw.githubusercontent.com/viru0909-dev/viru0909-dev/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/viru0909-dev/viru0909-dev/main/profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
-</div>
-
-<br />
-
 <br />
 
 ---
