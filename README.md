@@ -21,10 +21,6 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Nyay Setu** (Spring Boot, React, AI/ML & Blockchain).
-- 🤝 I’m contributing to Open Source **Jenkins** and Java-based architectures.
-- 🌱 I’m currently learning **Generative AI**, **Machine Learning Models**, and **Blockchain**.
-- 💬 Ask me about building **scalable web apps** and my journey in BCA.
-- ⚡ **Fun fact:** I debug code in my sleep (not really, but close enough).
 
 ---
 
