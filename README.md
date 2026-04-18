@@ -18,9 +18,9 @@
 
 ---
 
-### 👨‍💻 About Me
+###About Me
 
-- 🔭 I’m currently working on **Nyay Setu** (Spring Boot, React, AI/ML & Blockchain).
+- I’m currently working on **Nyay Setu** (Spring Boot, React, AI/ML & Blockchain).
 
 ---
 
