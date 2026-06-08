@@ -1,6 +1,11 @@
+<!-- Lord Krishna Banner — Philosophy, Duty, Purpose -->
+<p align="center">
+  <img src="assets/lord_krishna_landscape.jpeg" width="100%" alt="Lord Krishna guiding Arjuna — Discipline, Duty, Purpose" />
+</p>
+
 <!-- Animated Wave Header with Peacock color gradient -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,30:0ea5e9,60:6366f1,100:eab308&height=220&section=header&text=Virendra%20Gadekar&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=Java%20Backend%20Developer%20%26%20Open%20Source%20Contributor&descSize=18&descAlignY=60&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,30:0ea5e9,60:6366f1,100:eab308&height=180&section=header&text=Virendra%20Gadekar&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Java%20Backend%20Developer%20%26%20Open%20Source%20Contributor&descSize=18&descAlignY=62&animation=twinkling" width="100%" />
 </p>
 
 <!-- Animated Typing Subtitle -->
