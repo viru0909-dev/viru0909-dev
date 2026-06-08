@@ -3,14 +3,14 @@
   <img src="assets/lord_krishna_landscape.jpeg" width="100%" alt="Lord Krishna guiding Arjuna — Discipline, Duty, Purpose" />
 </p>
 
-<!-- Animated Wave Header with Peacock color gradient -->
+<!-- Animated Name -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,30:0ea5e9,60:6366f1,100:eab308&height=180&section=header&text=Virendra%20Gadekar&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Java%20Backend%20Developer%20%26%20Open%20Source%20Contributor&descSize=18&descAlignY=62&animation=twinkling" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=46&duration=3000&pause=5000&color=FFFFFF&center=true&vCenter=true&width=700&height=80&lines=Virendra+Gadekar" alt="Virendra Gadekar" />
 </p>
 
 <!-- Animated Typing Subtitle -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=14B8A6&center=true&vCenter=true&width=650&lines=Building+technology+with+purpose.;Guided+by+discipline+%26+curiosity.;Open+Source+Contributor+%7C+GSSoC+2026+Admin;Creator+of+Nyay+Setu;Jenkins+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=14B8A6&center=true&vCenter=true&width=700&lines=Java+Backend+Developer+%7C+Open+Source+Contributor;Building+technology+with+purpose.;Guided+by+discipline+%26+curiosity.;GSSoC+2026+Project+Admin;Creator+of+Nyay+Setu;Jenkins+Contributor" alt="Typing SVG" />
 </p>
 
 <!-- Social Links -->
