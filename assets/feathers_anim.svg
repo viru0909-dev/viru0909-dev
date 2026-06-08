@@ -1,0 +1,188 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 160" width="900" height="160">
+  <defs>
+    <style>
+      /* Each feather has its own named keyframe so x-position is baked in */
+      @keyframes fall1 {
+        0%   { transform: translate(45px, -45px)  rotate(-10deg) scale(0.9); opacity: 0; }
+        10%  { opacity: 1; }
+        50%  { transform: translate(52px,  80px)  rotate(180deg) scale(1.0); opacity: 0.9; }
+        90%  { opacity: 0.8; }
+        100% { transform: translate(40px,  180px) rotate(370deg) scale(1.1); opacity: 0; }
+      }
+      @keyframes fall2 {
+        0%   { transform: translate(102px,-40px)  rotate(8deg)   scale(0.85); opacity: 0; }
+        10%  { opacity: 0.9; }
+        50%  { transform: translate(95px,  85px)  rotate(-185deg) scale(1.0); opacity: 0.9; }
+        90%  { opacity: 0.75; }
+        100% { transform: translate(108px, 180px) rotate(-370deg) scale(1.05); opacity: 0; }
+      }
+      @keyframes fall3 {
+        0%   { transform: translate(168px,-50px)  rotate(-5deg)  scale(1.1); opacity: 0; }
+        10%  { opacity: 1; }
+        50%  { transform: translate(162px, 75px)  rotate(195deg) scale(1.05); opacity: 0.85; }
+        90%  { opacity: 0.8; }
+        100% { transform: translate(172px, 180px) rotate(380deg) scale(1.2); opacity: 0; }
+      }
+      @keyframes fall4 {
+        0%   { transform: translate(232px,-38px)  rotate(12deg)  scale(0.8); opacity: 0; }
+        10%  { opacity: 0.95; }
+        50%  { transform: translate(240px, 78px)  rotate(-175deg) scale(0.9); opacity: 0.9; }
+        90%  { opacity: 0.7; }
+        100% { transform: translate(226px, 180px) rotate(-355deg) scale(1.0); opacity: 0; }
+      }
+      @keyframes fall5 {
+        0%   { transform: translate(295px,-42px)  rotate(-8deg)  scale(1.0); opacity: 0; }
+        10%  { opacity: 1; }
+        50%  { transform: translate(302px, 82px)  rotate(188deg) scale(1.0); opacity: 0.9; }
+        90%  { opacity: 0.85; }
+        100% { transform: translate(290px, 180px) rotate(365deg) scale(1.15); opacity: 0; }
+      }
+      @keyframes fall6 {
+        0%   { transform: translate(358px,-45px)  rotate(6deg)   scale(0.95); opacity: 0; }
+        10%  { opacity: 0.9; }
+        50%  { transform: translate(365px, 80px)  rotate(-182deg) scale(1.0); opacity: 0.8; }
+        90%  { opacity: 0.75; }
+        100% { transform: translate(352px, 180px) rotate(-360deg) scale(1.1); opacity: 0; }
+      }
+      @keyframes fall7 {
+        0%   { transform: translate(420px,-48px)  rotate(-12deg) scale(1.15); opacity: 0; }
+        10%  { opacity: 1; }
+        50%  { transform: translate(428px, 77px)  rotate(192deg) scale(1.1); opacity: 0.95; }
+        90%  { opacity: 0.8; }
+        100% { transform: translate(415px, 180px) rotate(375deg) scale(1.25); opacity: 0; }
+      }
+      @keyframes fall8 {
+        0%   { transform: translate(482px,-40px)  rotate(4deg)   scale(0.85); opacity: 0; }
+        10%  { opacity: 0.95; }
+        50%  { transform: translate(490px, 82px)  rotate(-178deg) scale(0.9); opacity: 0.85; }
+        90%  { opacity: 0.7; }
+        100% { transform: translate(477px, 180px) rotate(-358deg) scale(1.0); opacity: 0; }
+      }
+      @keyframes fall9 {
+        0%   { transform: translate(545px,-46px)  rotate(-7deg)  scale(1.0); opacity: 0; }
+        10%  { opacity: 1; }
+        50%  { transform: translate(552px, 78px)  rotate(185deg) scale(1.05); opacity: 0.9; }
+        90%  { opacity: 0.8; }
+        100% { transform: translate(540px, 180px) rotate(368deg) scale(1.1); opacity: 0; }
+      }
+      @keyframes fall10 {
+        0%   { transform: translate(608px,-42px)  rotate(10deg)  scale(0.9); opacity: 0; }
+        10%  { opacity: 0.9; }
+        50%  { transform: translate(615px, 80px)  rotate(-188deg) scale(1.0); opacity: 0.85; }
+        90%  { opacity: 0.75; }
+        100% { transform: translate(602px, 180px) rotate(-362deg) scale(1.0); opacity: 0; }
+      }
+      @keyframes fall11 {
+        0%   { transform: translate(668px,-50px)  rotate(-9deg)  scale(1.1); opacity: 0; }
+        10%  { opacity: 1; }
+        50%  { transform: translate(675px, 76px)  rotate(194deg) scale(1.05); opacity: 0.9; }
+        90%  { opacity: 0.8; }
+        100% { transform: translate(663px, 180px) rotate(378deg) scale(1.2); opacity: 0; }
+      }
+      @keyframes fall12 {
+        0%   { transform: translate(730px,-44px)  rotate(5deg)   scale(0.8); opacity: 0; }
+        10%  { opacity: 0.9; }
+        50%  { transform: translate(738px, 79px)  rotate(-180deg) scale(0.9); opacity: 0.85; }
+        90%  { opacity: 0.7; }
+        100% { transform: translate(725px, 180px) rotate(-355deg) scale(0.95); opacity: 0; }
+      }
+      @keyframes fall13 {
+        0%   { transform: translate(792px,-47px)  rotate(-11deg) scale(1.05); opacity: 0; }
+        10%  { opacity: 1; }
+        50%  { transform: translate(800px, 77px)  rotate(190deg) scale(1.0); opacity: 0.9; }
+        90%  { opacity: 0.8; }
+        100% { transform: translate(788px, 180px) rotate(372deg) scale(1.15); opacity: 0; }
+      }
+      @keyframes fall14 {
+        0%   { transform: translate(852px,-41px)  rotate(7deg)   scale(0.9); opacity: 0; }
+        10%  { opacity: 0.95; }
+        50%  { transform: translate(860px, 81px)  rotate(-186deg) scale(0.95); opacity: 0.85; }
+        90%  { opacity: 0.75; }
+        100% { transform: translate(848px, 180px) rotate(-364deg) scale(1.05); opacity: 0; }
+      }
+
+      .f1  { animation: fall1  5.2s linear 0.0s infinite; }
+      .f2  { animation: fall2  6.8s linear 1.4s infinite; }
+      .f3  { animation: fall3  4.9s linear 2.8s infinite; }
+      .f4  { animation: fall4  7.1s linear 0.9s infinite; }
+      .f5  { animation: fall5  5.5s linear 3.3s infinite; }
+      .f6  { animation: fall6  6.3s linear 2.0s infinite; }
+      .f7  { animation: fall7  4.7s linear 4.2s infinite; }
+      .f8  { animation: fall8  5.9s linear 0.6s infinite; }
+      .f9  { animation: fall9  6.6s linear 2.5s infinite; }
+      .f10 { animation: fall10 4.4s linear 3.8s infinite; }
+      .f11 { animation: fall11 7.2s linear 1.2s infinite; }
+      .f12 { animation: fall12 5.1s linear 4.9s infinite; }
+      .f13 { animation: fall13 6.0s linear 0.4s infinite; }
+      .f14 { animation: fall14 4.6s linear 5.6s infinite; }
+    </style>
+
+    <!-- Peacock eye radial gradient -->
+    <radialGradient id="eye_g" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#0f172a"/>
+      <stop offset="22%"  stop-color="#1d4ed8"/>
+      <stop offset="48%"  stop-color="#06b6d4"/>
+      <stop offset="70%"  stop-color="#10b981"/>
+      <stop offset="86%"  stop-color="#84cc16"/>
+      <stop offset="100%" stop-color="#ca8a04"/>
+    </radialGradient>
+
+    <!-- Outer shimmer halo -->
+    <radialGradient id="halo_g" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#fbbf24" stop-opacity="0"/>
+      <stop offset="65%"  stop-color="#fbbf24" stop-opacity="0"/>
+      <stop offset="80%"  stop-color="#fbbf24" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#78350f"  stop-opacity="0.2"/>
+    </radialGradient>
+
+    <!-- Stalk gradient -->
+    <linearGradient id="stalk_g" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"   stop-color="#2dd4bf"/>
+      <stop offset="100%" stop-color="#0d9488" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <!-- Single feather symbol (drawn at origin, positioned via keyframes) -->
+    <symbol id="fth" viewBox="-12 -12 24 52" width="24" height="52">
+      <!-- Stalk -->
+      <line x1="0" y1="2" x2="0" y2="40" stroke="url(#stalk_g)" stroke-width="1.3" stroke-linecap="round"/>
+      <!-- Left barbs -->
+      <line x1="0" y1="8"  x2="-8"  y2="5"  stroke="#34d399" stroke-width="0.7" stroke-opacity="0.8"/>
+      <line x1="0" y1="13" x2="-10" y2="9"  stroke="#34d399" stroke-width="0.6" stroke-opacity="0.7"/>
+      <line x1="0" y1="18" x2="-11" y2="14" stroke="#22d3ee" stroke-width="0.6" stroke-opacity="0.7"/>
+      <line x1="0" y1="23" x2="-10" y2="19" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.6"/>
+      <line x1="0" y1="28" x2="-8"  y2="25" stroke="#818cf8" stroke-width="0.5" stroke-opacity="0.5"/>
+      <line x1="0" y1="33" x2="-6"  y2="30" stroke="#a78bfa" stroke-width="0.4" stroke-opacity="0.4"/>
+      <!-- Right barbs -->
+      <line x1="0" y1="8"  x2="8"   y2="5"  stroke="#34d399" stroke-width="0.7" stroke-opacity="0.8"/>
+      <line x1="0" y1="13" x2="10"  y2="9"  stroke="#34d399" stroke-width="0.6" stroke-opacity="0.7"/>
+      <line x1="0" y1="18" x2="11"  y2="14" stroke="#22d3ee" stroke-width="0.6" stroke-opacity="0.7"/>
+      <line x1="0" y1="23" x2="10"  y2="19" stroke="#38bdf8" stroke-width="0.5" stroke-opacity="0.6"/>
+      <line x1="0" y1="28" x2="8"   y2="25" stroke="#818cf8" stroke-width="0.5" stroke-opacity="0.5"/>
+      <line x1="0" y1="33" x2="6"   y2="30" stroke="#a78bfa" stroke-width="0.4" stroke-opacity="0.4"/>
+      <!-- Peacock eye -->
+      <ellipse cx="0" cy="0" rx="9"  ry="11" fill="#0d9488" opacity="0.35"/>
+      <ellipse cx="0" cy="0" rx="7"  ry="9"  fill="url(#halo_g)"/>
+      <ellipse cx="0" cy="0" rx="5.5" ry="7" fill="url(#eye_g)"/>
+      <ellipse cx="-1.5" cy="-2.5" rx="1.8" ry="2.2" fill="white" opacity="0.28"/>
+    </symbol>
+  </defs>
+
+  <!-- Transparent background so it overlays whatever GitHub renders behind it -->
+  <rect width="900" height="160" fill="none"/>
+
+  <!-- 14 feathers, each at opacity:0 initial state, animated by their own keyframe -->
+  <use href="#fth" class="f1"/>
+  <use href="#fth" class="f2"/>
+  <use href="#fth" class="f3"/>
+  <use href="#fth" class="f4"/>
+  <use href="#fth" class="f5"/>
+  <use href="#fth" class="f6"/>
+  <use href="#fth" class="f7"/>
+  <use href="#fth" class="f8"/>
+  <use href="#fth" class="f9"/>
+  <use href="#fth" class="f10"/>
+  <use href="#fth" class="f11"/>
+  <use href="#fth" class="f12"/>
+  <use href="#fth" class="f13"/>
+  <use href="#fth" class="f14"/>
+</svg>
