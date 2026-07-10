@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/viru0909-dev/viru0909-dev/main/profile-summary-card-output/kacho_ga/4-productive-time.svg)
-```
-
-    
