@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/viru0909-dev/viru0909-dev/main/profile-summary-card-output/solarized_dark/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/viru0909-dev/viru0909-dev/main/profile-summary-card-output/solarized_dark/4-productive-time.svg)
-```
-
-    
